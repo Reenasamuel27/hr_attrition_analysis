@@ -136,7 +136,7 @@ Data Analyst • Data Scientist • ML Engineer • AI Engineer
 
 🧑‍💻 Author
 
-Jay Selvam
+Reena Samuel
 
 GitHub: https://github.com/Reenasamuel27
 
@@ -151,4 +151,5 @@ If you like this project:
 🍴 Fork it
 
 📢 Share with recruiters
+
 
